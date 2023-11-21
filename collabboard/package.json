@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "A real time whiteboard sharing app with nodejs,socket and mongodb",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
